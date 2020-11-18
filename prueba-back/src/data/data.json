@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "name": "pedro guerrero",
+      "email": "pedro@lala.cl",
+      "password": "$2b$12$EvRMJFHYUoICVsMS1QiI9./dxrU1a7qOFzC3vnQXixiu5Kdb2cun6",
+      "id": "feda0164-8bfd-41e0-bdd5-8368f4e029ca"
+    },
+    {
+      "name": "jorge",
+      "email": "jorge@lala.cl",
+      "password": "$2b$12$Xarw1W/v5FYVTHyx1Uym/.QdzNRTEUmZdlTPOU7U1D.HY8CI.4HgO",
+      "id": "ae9cfc16-1dc1-40fb-b54b-12eab3b66a6b"
+    },
+    {
+      "name": "asdasdasdasd",
+      "email": "asd@lala.cl",
+      "password": "$2b$12$ersmtPJ8StxJzXkXqs6W8Oxek89OHUG5QGQdXryWFV0DGnbL.tJ/W",
+      "id": "3c15fad0-9230-49db-8cde-41ea413da129"
+    },
+    {
+      "name": "pedro guerrero",
+      "email": "pedro@prueba.cl",
+      "password": "$2b$12$ZMDIEj6jAbRdCzCVi3noFOZ5VJCRlVDOtyiiNTj6s0ewbRHfrPV2O",
+      "id": "e5fe77d6-23e8-4e39-b429-2482b485fe3d"
+    }
+  ],
+  "urls": [
+    {
+      "url": "https://www.pguerrero.com",
+      "domain": "pguerrero.com",
+      "userEmail": "pedro@lala.cl",
+      "id": "e9ed7f1b-17d4-4820-87ea-5ed28083a6fe"
+    },
+    {
+      "url": "https://www.pguerrero2.com",
+      "domain": "pguerrero2.com",
+      "userEmail": "pedro@lala.cl",
+      "id": "1588015f-3eff-48e3-a7fd-5e0e611c5c96"
+    },
+    {
+      "url": "https://www.pguerrero3.com",
+      "domain": "pguerrero3.com",
+      "userEmail": "pedro@lala.cl",
+      "id": "0c6c27ee-9bd0-45d6-9033-31e7cb8885fb"
+    },
+    {
+      "url": "https://www.pguerrero3.com",
+      "domain": "pguerrero3.com",
+      "userEmail": "pedro@prueba.cl",
+      "id": "461cb6cb-4a65-41d9-bd24-5c15d6c56ec6"
+    },
+    {
+      "url": "https://www.pguerrero33.com",
+      "domain": "pguerrero33.com",
+      "userEmail": "pedro@prueba.cl",
+      "id": "fd1a87bc-8882-4bb5-ba0f-c8bde5afd214"
+    },
+    {
+      "url": "https://www.pguerrero.com",
+      "domain": "pguerrero.com",
+      "userEmail": "pedro@prueba.cl",
+      "id": "f3d768d3-0525-4894-8373-ed65c89b4216"
+    },
+    {
+      "url": "https://pguerrero.com/sample1",
+      "domain": "pguerrero.com",
+      "userEmail": "pedro@lala.cl",
+      "id": "776d98a4-4a7d-423d-a0b0-7f19bf94e433"
+    },
+    {
+      "url": "https://pguerrero.com/sample2",
+      "domain": "pguerrero.com",
+      "userEmail": "pedro@lala.cl",
+      "id": "b517f31c-85c2-46b2-9bc8-0a1a408fc99b"
+    },
+    {
+      "url": "https://pguerrero.com/sample3",
+      "domain": "pguerrero.com",
+      "userEmail": "pedro@lala.cl",
+      "id": "61f1e089-5d9e-472a-8bee-31f7a417192f"
+    },
+    {
+      "url": "https://pguerrero.com/sample4",
+      "domain": "pguerrero.com",
+      "userEmail": "pedro@lala.cl",
+      "id": "6e46916d-9413-4d91-91c2-9f887ae763f8"
+    }
+  ]
+}

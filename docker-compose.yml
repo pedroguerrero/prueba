@@ -1,0 +1,16 @@
+version: '3.0'
+services:
+  back:
+    build: prueba-back
+    ports:
+      - 8989:3000
+    networks:
+      - net-local
+  front:
+    build: prueba-front
+    ports:
+      - 9000:80
+    networks:
+      - net-local
+networks:
+  net-local:
