@@ -6,4 +6,4 @@ Just run
 $ docker-compose up
 ```
 
-Then visit [http://localhost:9000](http://localhost:9000)
+Then visit [http://localhost:9000/register](http://localhost:9000/register)
